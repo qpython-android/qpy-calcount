@@ -3,7 +3,10 @@
 This is an sample project which is based on QSL4A APIs (It supports Python 2 now, we will try to port it to support Python 3 soon).
 
 
-### Screenshot
+### Runtime Screenshot
+
+![Main screen](https://github.com/qpython-android/sample-qsl4a/blob/master/screenshot/calories2.jpg?raw=true "Main screen")
+![Add a Meal](https://github.com/qpython-android/sample-qsl4a/blob/master/screenshot/calories1.jpg?raw=true "Add a Meal")
 
 
 
