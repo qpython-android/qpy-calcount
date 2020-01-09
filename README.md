@@ -5,8 +5,8 @@ QPyCalCount is a sample project for QPython which show how to use QSL4A features
 
 ## Runtime Screenshot
 
-![Main screen](https://github.com/qpython-android/sample-qsl4a/blob/master/screenshot/calories2.jpg?raw=true "Main screen")
-![Add a Meal](https://github.com/qpython-android/sample-qsl4a/blob/master/screenshot/calories1.jpg?raw=true "Add a Meal")
+![Main screen](https://github.com/qpython-android/qpy-calcount/blob/master/screenshot/calories2.jpg?raw=true "Main screen")
+![Add a Meal](https://github.com/qpython-android/qpy-calcount/blob/master/screenshot/calories1.jpg?raw=true "Add a Meal")
 
 
 
